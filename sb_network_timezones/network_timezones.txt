@@ -1234,6 +1234,7 @@ Super RTL:Europe/Berlin
 Super Écran:America/St_Johns
 Super!:Europe/Rome
 Superstar TV:Europe/Belgrade
+CBS (CA)
 Superstation WGN:America/New_York
 Swarnawahini:Asia/Colombo
 Swearnet:America/St_Johns
